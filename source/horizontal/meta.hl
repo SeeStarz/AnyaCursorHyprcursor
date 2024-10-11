@@ -1,0 +1,14 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = sb_h_double_arrow
+define_override = e-resize
+define_override = ew-resize
+define_override = w-resize
+define_override = h_double_arrow
+define_override = size-hor
+define_override = size_hor
+define_override = col-resize
+
+define_size = 32, horizontal.png

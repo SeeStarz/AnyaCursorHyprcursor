@@ -1,0 +1,9 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = hand1
+define_override = grab
+define_override = openhand
+
+define_size = 32, move.png

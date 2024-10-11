@@ -1,0 +1,9 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = crossed_circle
+define_override = forbidden
+define_override = not-allowed
+
+define_size = 32, unavailable.png

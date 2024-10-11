@@ -1,0 +1,25 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.5
+
+define_override = xterm
+define_override = ibeam
+define_override = text
+
+define_size = 32, Text_Select1.png, 100
+define_size = 32, Text_Select2.png, 100
+define_size = 32, Text_Select3.png, 100
+define_size = 32, Text_Select4.png, 100
+define_size = 32, Text_Select5.png, 100
+define_size = 32, Text_Select6.png, 100
+define_size = 32, Text_Select7.png, 100
+define_size = 32, Text_Select8.png, 100
+define_size = 32, Text_Select9.png, 100
+define_size = 32, Text_Select10.png, 100
+define_size = 32, Text_Select11.png, 100
+define_size = 32, Text_Select12.png, 100
+define_size = 32, Text_Select13.png, 100
+define_size = 32, Text_Select14.png, 100
+define_size = 32, Text_Select15.png, 100
+define_size = 32, Text_Select16.png, 100
+define_size = 32, Text_Select17.png, 100
