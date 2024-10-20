@@ -1,0 +1,11 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = bd_double_arrow
+define_override = nw-resize
+define_override = nwse-resize
+define_override = se-resize
+define_override = size_fdiag
+
+define_size = 32, resize_1.png

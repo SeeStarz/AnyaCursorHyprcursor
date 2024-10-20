@@ -1,0 +1,9 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = hand2
+define_override = pointer
+define_override = pointing_hand
+
+define_size = 32, link_select.png

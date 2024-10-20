@@ -1,0 +1,20 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = arrow
+define_override = default
+define_override = top_left_corner
+
+define_size = 32, Normal1.png, 100
+define_size = 32, Normal2.png, 100
+define_size = 32, Normal3.png, 100
+define_size = 32, Normal4.png, 100
+define_size = 32, Normal5.png, 100
+define_size = 32, Normal6.png, 100
+define_size = 32, Normal7.png, 100
+define_size = 32, Normal8.png, 100
+define_size = 32, Normal9.png, 100
+define_size = 32, Normal11.png, 100
+define_size = 32, Normal12.png, 100
+define_size = 32, Normal13.png, 100

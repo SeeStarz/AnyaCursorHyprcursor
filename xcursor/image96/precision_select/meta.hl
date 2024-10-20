@@ -1,0 +1,24 @@
+resize_algorithm = nearest
+hotspot_x = 0.2
+hotspot_y = 0.2
+
+define_override = pointer
+define_override = pointing_hand
+
+define_size = 32, Precision_Select1.png, 100
+define_size = 32, Precision_Select2.png, 100
+define_size = 32, Precision_Select3.png, 100
+define_size = 32, Precision_Select4.png, 100
+define_size = 32, Precision_Select5.png, 100
+define_size = 32, Precision_Select6.png, 100
+define_size = 32, Precision_Select7.png, 100
+define_size = 32, Precision_Select8.png, 100
+define_size = 32, Precision_Select9.png, 100
+define_size = 32, Precision_Select10.png, 100
+define_size = 32, Precision_Select11.png, 100
+define_size = 32, Precision_Select12.png, 100
+define_size = 32, Precision_Select13.png, 100
+define_size = 32, Precision_Select14.png, 100
+define_size = 32, Precision_Select15.png, 100
+define_size = 32, Precision_Select16.png, 100
+define_size = 32, Precision_Select17.png, 100

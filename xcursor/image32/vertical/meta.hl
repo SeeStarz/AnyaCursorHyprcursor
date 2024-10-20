@@ -1,0 +1,14 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = sb_v_double_arrow
+define_override = n_resize
+define_override = ns_resize
+define_override = s_resize
+define_override = size_ver
+define_override = size-ver
+define_override = v_double_arrow
+define_override = row-resize
+
+define_size = 32, vertical.png
